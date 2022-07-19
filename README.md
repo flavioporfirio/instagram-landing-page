@@ -1,2 +1,8 @@
 # instagram-landing-page
- Projeto feito em conjunto com a DIO, no bootcamp da Impulso - Javascript Evolution
+ Clone da landing page do instagram feito no bootcamp da DIO (Digital Innovation One)
+ 
+ ##Ferramentas utilizadas
+ <ul>
+  <li>HTML</li>
+  <li>CSS</li>
+ </ul>
